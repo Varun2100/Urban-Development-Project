@@ -1,0 +1,5 @@
+AirQuality_ID,AirQuality_Level,AQI_Range,AQI_Score
+1,Good,0-50,25
+2,Moderate,51-100,75
+3,Poor,101-200,150
+4,Very Poor,201+,250
